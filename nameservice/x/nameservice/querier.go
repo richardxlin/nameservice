@@ -1,3 +1,5 @@
+package nameservice
+
 import (
 	"fmt"
 	"strings"
